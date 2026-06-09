@@ -30,7 +30,6 @@
 <img src="https://img.shields.io/badge/User Story-4A90D9?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Критерии приёмки-7B68EE?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Тестовые сценарии-2ECC71?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Agile / Backlog-E67E22?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Формализация требований-E74C3C?style=for-the-badge" />
 
 ---
